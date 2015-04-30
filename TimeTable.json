@@ -1,0 +1,179 @@
+{
+    "year":"1st Year",
+    "semester":"First Semester",
+    "created":"04/30/2015",
+    "timetable": [
+        [
+	    {"time":"09:00",
+		"events": [
+	        { "module":"CS101", "type":"lecture", "room":"Smith Hall" }
+	    ]},
+	    {"time":"10:00",
+		"events": [
+	        { "module":"CS102", "type":"lecture", "room":"MSB" }
+	    ]},
+	    {"time":"11:00",
+		"events": [
+	        { "module":"CS103", "type":"lecture", "room":"Smith Hall" }
+	    ]},
+	    {"time":"13:00",
+		"events": [
+	        { "module":"CS104", "type":"lecture", "room":"Henderson Hall" }
+	    ]},
+	    {"time":"14:00",
+		"events": [
+	        { "module":"CS105", "type":"lecture", "room":"MATH-104" },
+		{ "module":"CS106", "type":"lab" }
+	    ]},
+	    {"time":"15:00",
+		"events": [
+	        { "module":"CS107", "type":"lecture", "room":"MSB" }
+	    ]},
+	    {"time":"16:00",
+		"events": [
+	        { "module":"CS108", "type":"tutorial", "room":"Cunningham Hall" }
+	    ]}
+	],
+        [
+	    {"time":"09:00",
+		"events": [
+	        { "module":"CS109", "type":"lecture", "room":"MATH-104" },
+		{ "module":"CS110", "type":"lab" }
+	    ]},
+	    {"time":"10:00",
+		"events": [
+	        { "module":"CS111", "type":"lecture", "room":"SMITH HALL" },
+		{ "module":"CS112", "type":"lab" }
+	    ]},
+	    {"time":"11:00",
+		"events": [
+	        { "module":"CS113", "type":"lecture", "room":"HENDERSON HALL" },
+		{ "module":"CS114", "type":"lecture", "room":"MSB" },
+		{ "module":"CS115", "type":"lab", "room":"Mac Lab" }
+	    ]},
+	    {"time":"12:00",
+		"events": [
+	        { "module":"CS116", "type":"lecture", "room":"LIQUID CRYSTAL" }
+	    ]},
+	    {"time":"13:00",
+		"events": [
+	        { "module":"CS117", "type":"lab" }
+	    ]},
+	    {"time":"14:00",
+		"events": [
+	        { "module":"CS118", "type":"lecture", "room":"CUNNINGHAM HALL" },
+	        { "module":"CS119", "type":"lab" }
+	    ]},
+	    {"time":"15:00",
+		"events": [
+	        { "module":"CS120", "type":"tutorial", "room":"LIQUID CRYSTAL" },
+	        { "module":"CS121", "type":"lab" }
+	    ]},
+	    {"time":"16:00",
+		"events": [
+	        { "module":"CS122", "type":"lecture", "room":"MSB" },
+	        { "module":"CS123", "type":"lab"
+		}
+	    ]}
+	],
+        [
+	    {"time":"09:00",
+		"events": [
+	        { "module":"CS105", "type":"lecture", "room":"MATH-104" },
+		{ "module":"CS106", "type":"lab" }
+	    ]},
+	    {"time":"10:00",
+		"events": [
+	        { "module":"CS114", "type":"lecture", "room":"MSB" },
+		{ "module":"CS115", "type":"lab" }
+	    ]},
+	    {"time":"11:00",
+		"events": [
+	        { "module":"CS120", "type":"lecture", "room":"LIQUID CRYSTAL" },
+		{ "module":"CS121", "type":"lab", "room":"LIQUID CRYSTAL" },
+		{ "module":"CS117", "type":"lab" }
+	    ]},
+	    {"time":"12:00",
+		"events": [
+	        { "module":"CS118", "type":"lecture", "room":"CUNNINGHAM HALL" },
+		{ "module":"CS119", "type":"lab" }
+	    ]}
+	],
+        [
+	    {"time":"09:00",
+		"events": [
+	        { "module":"CS113", "type":"lecture", "room":"HENDERSON HALL" }
+	    ]},
+	    {"time":"10:00",
+		"events": [
+	        { "module":"CS122", "type":"lecture", "room":"MSB" },
+		{ "module":"CS123", "type":"lab" }
+	    ]},
+	    {"time":"11:00",
+		"events": [
+	        { "module":"CS120", "type":"lecture", "room":"LIQUID CRYSTAL" },
+		{ "module":"CS121", "type":"lab" },
+		{ "module":"CS124", "type":"lab", "room":"Mac Lab" }
+	    ]},
+	    {"time":"12:00",
+		"events": [
+	        { "module":"CS113", "type":"lecture", "room":"HENDERSON HALL" },
+	        { "module":"CS111", "type":"tutorial", "room":"SMITH HALL" }
+	    ]},
+	    {"time":"13:00",
+		"events": [
+	        { "module":"CS112", "type":"lab" }
+	    ]},
+	    {"time":"14:00",
+		"events": [
+	        { "module":"CS105", "type":"lecture", "room":"MATH-104" },
+	        { "module":"CS106", "type":"lab" },
+	        { "module":"CS123", "type":"lab" }
+	    ]},
+	    {"time":"15:00",
+		"events": [
+	        { "module":"CS101", "type":"lecture", "room":"SMITH HALL" },
+	        { "module":"CS104", "type":"tutorial", "room":"HENDERSON HALL" },
+	        { "module":"CS103", "type":"tutorial", "room":"SMITH HALL" }
+	    ]},
+	    {"time":"16:00",
+		"events": [
+	        { "module":"CS113", "type":"tutorial", "room":"HENDERSON HALL" }
+	    ]}
+	],
+        [
+	    {"time":"09:00",
+		"events": [
+	        { "module":"CS104", "type":"lecture", "room":"HENDERSON HALL" }
+	    ]},
+	    {"time":"10:00",
+		"events": [
+	        { "module":"CS105", "type":"lecture", "room":"MATH-104" },
+		{ "module":"CS106", "type":"lab" }
+	    ]},
+	    {"time":"11:00",
+		"events": [
+	        { "module":"CS102", "type":"lecture", "room":"MSB" }
+	    ]},
+	    {"time":"13:00",
+		"events": [
+	        { "module":"CS103", "type":"lecture", "room":"SMITH HALL" },
+	        { "module":"CS109", "type":"tutorial", "room":"MATH-104" }
+	    ]},
+	    {"time":"14:00",
+		"events": [
+	        { "module":"CS122", "type":"lecture", "room":"MSB" },
+	        { "module":"CS123", "type":"lab", "room":"Mac-Lab" }
+	    ]},
+	    {"time":"15:00",
+		"events": [
+	        { "module":"CS114", "type":"lecture", "room":"MSB" },
+	        { "module":"CS115", "type":"lab" }
+	    ]},
+	    {"time":"16:00",
+		"events": [
+	        { "module":"CS119", "type":"lab" }
+	    ]}
+	]
+    ]
+}
